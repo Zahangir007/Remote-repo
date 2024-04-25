@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 This is the 1st line of file11!
 This is the 2nd line of file11
+
